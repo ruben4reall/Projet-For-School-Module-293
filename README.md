@@ -58,7 +58,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📫 Contact
 
 My Instagram [@ruben4reall](https://instagram.com/ruben4reall)
-<br />My Discord [soonrich#0000] (https://discord.gg/ctri)
+<br />My Discord [soonrich#0000]
 
 Project Link: [https://github.com/ruben4reall/Projet-For-School-Module-293](https://github.com/ruben4reall/Projet-For-School-Module-293)
 
