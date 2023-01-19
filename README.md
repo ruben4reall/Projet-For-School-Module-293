@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/roshanlam/ReadMeTemplate/">
-    <img src="./logo.png" alt="Logo" width="80" height="80">
+  <a href="https://ibb.co/7XxsgZf">
+    <img src="https://ibb.co/7XxsgZf" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Project Module 238</h3>
