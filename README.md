@@ -13,7 +13,7 @@
     <br />
     <br />
     <a href="https://centurioninc.netlify.app/">Visit the website</a>
-    ·
+
   </p>
 </p>
 
