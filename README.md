@@ -56,31 +56,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📫 Contact
 
 My Instagram [@ruben4reall](https://instagram.com/ruben4reall)
-My Discord [soonrich#0000] (https://discord.gg/ctri)
+<br />My Discord [soonrich#0000] (https://discord.gg/ctri)
 
 Project Link: [https://github.com/ruben4reall/Projet-For-School-Module-293](https://github.com/ruben4reall/Projet-For-School-Module-293)
 
 
+<!-- SOURCES -->
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* blah blah blah....
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/roshanlam/ReadMeTemplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]: https://github.com/roshanlam/ReadMeTemplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
-[issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/roshan-lamichhane
-
+-
