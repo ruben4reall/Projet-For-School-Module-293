@@ -27,6 +27,8 @@ Here are the characteristics that we must have on the site:
 * -
 * -
 
+And so my theme is a so-called fictitious company that sells services to make money.
+
 
 ### Built With
 I was able to create this site thanks to these technologie :
