@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://ibb.co/7XxsgZf">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZVRqHFj/Gold-Luxury-Initial-Circle-Logo-modified.png" alt="Gold-Luxury-Initial-Circle-Logo-modified" border="0"></a><br /><a target='_blank' href='https://de.imgbb.com/'></a><br />
+  <a href="https://github.com/ruben4reall/Projet-For-School-Module-293">
+    <img src="assets/img/LOGO.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Project Module 238</h3>
